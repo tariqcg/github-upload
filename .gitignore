@@ -1,0 +1,9 @@
+# This is a list of files you want to tell Git to explicitly ignore.
+build/logs*
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
